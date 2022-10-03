@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Initialize
+
+You have to change the name of the projet on the package.json file.
 
 ## Available Scripts
 
